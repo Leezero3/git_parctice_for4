@@ -1,2 +1,2 @@
 "use strict";
-console.log("welcome my GIT HUB!");
+console.log("한소연");
