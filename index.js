@@ -1,3 +1,3 @@
 "use strict";
-console.log("welcome my GIT HUBs!");
 
+console.log("한소연");
